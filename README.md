@@ -13,11 +13,11 @@ The pipeline was developed from an earlier workflow provided by Donald Porchia a
 - Support downstream alpha diversity, beta diversity, and differential-abundance analyses.
 
 ### Tools and Technologies
--Language: R
--Sequence processing: DADA2
--Microbiome analysis: phyloseq
--Statistical analysis: R and relevant microbiome analysis packages
--Data visualization: ggplot2 and related R packages
+- Language: R
+- Sequence processing: DADA2
+- Microbiome analysis: phyloseq
+- Statistical analysis: R and relevant microbiome analysis packages
+- Data visualization: ggplot2 and related R packages
 
 ### Project Status
 
