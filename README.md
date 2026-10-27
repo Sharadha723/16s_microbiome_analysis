@@ -32,5 +32,5 @@ This project substantially expands and modifies an original DADA2/phyloseq workf
 Licensed under the PolyForm Noncommercial License 1.0.0. See LICENSE for the full terms.
 
 ### Authors
-Developed and expanded by: Sarada Giridharan
-Original workflow by: Donald Porchia and Zhigang Li
+- Developed and expanded by: Sarada Giridharan
+- Original workflow by: Donald Porchia and Zhigang Li
