@@ -1,5 +1,5 @@
 ## 16s Microbiome Pipeline
-An R-based pipeline for processing and analyzing 16S rRNA gene sequencing data from polycystic ovary syndrome (PCOS) and control samples.
+An R-based pipeline for processing and analyzing 16S rRNA gene sequencing data from polycystic ovary syndrome (PCOS) and control samples. Sample data and metadata used in this pipeline sourced from NCBI BioProject PRJNA622999. 
 
 ### Overview
 This project implements an expanded DADA2/phyloseq workflow for 16S rRNA gene sequencing data, covering sequence processing, amplicon sequence variant (ASV) inference, taxonomic assignment, microbiome data integration, and downstream statistical analysis.
