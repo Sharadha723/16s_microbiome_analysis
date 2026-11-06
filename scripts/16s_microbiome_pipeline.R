@@ -9,7 +9,7 @@
 #   Donald Porchia and Zhigang Li
 #
 # Version:
-#   v1.0.0
+#   v3.0.0
 #
 # Description:
 #   An R-based workflow for processing paired-end 16S rRNA gene sequencing
